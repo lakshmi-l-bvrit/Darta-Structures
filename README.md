@@ -1,2 +1,2 @@
 # Darta-Structures
-data structures lab programs
+It contains all the programs of data structures lab according to JNTUH R18 Syllabus
